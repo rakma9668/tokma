@@ -3,7 +3,7 @@ A discord bot made for Dragon Legend Server (Syntaxgame)
 
 How to
 ----
-- Install requierd packages `npm install`
+- Install required packages `npm install`
 - Go to discord [bot portal](https://discordapp.com/developers/applications/), register a new bot and generate tokens
 - Create the **.env** file with provided variables in the example below
 
