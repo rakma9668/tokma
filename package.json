@@ -1,0 +1,31 @@
+{
+    "name": "tokma",
+    "version": "1.0.0",
+    "description": "Dragon Legend Discord Bot",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [
+        "bot",
+        "dragon legend",
+        "syntaxgame",
+        "discord",
+        "rakma9668"
+    ],
+    "author": "https://github.com/rakma9668",
+    "license": "MIT",
+    "dependencies": {
+        "colog": "^1.0.4",
+        "crypto-js": "^4.0.0",
+        "discord.js": "^12.2.0",
+        "dotenv": "^8.2.0",
+        "fortune-teller": "^0.1.2",
+        "node-cron": "^2.0.3",
+        "superagent": "^5.2.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
