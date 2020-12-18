@@ -1,11 +1,17 @@
 # Tokma
 A discord bot made for Dragon Legend Server (Syntaxgame)
 
+How to
+----
+- Install requierd packages `npm install`
+- Go to discord [bot portal](https://discordapp.com/developers/applications/), register a new bot and generate tokens
+- Create the **.env** file with provided variables in the example below
+
 .env
 ----
 ```
 // Server ip with port
-SERVER_IP=
+SERVER_IP=127.0.0.1:1337
 // Server token
 SERVER_TOKEN=
 // Discord bot token
