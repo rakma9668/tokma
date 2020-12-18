@@ -1,5 +1,5 @@
 # Tokma
-A discord bot made for Dragon Legend Server (Syntaxgame)
+A discord bot made for [Dragon Legend](https://github.com/syntaxgame/dragon-legend) server emulator
 
 How to
 ----
